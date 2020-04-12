@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03131832-ab9b-4b59-804e-ad9c5c1fd514" name="Default Changelist" comment="" />
+    <list default="true" id="03131832-ab9b-4b59-804e-ad9c5c1fd514" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.game.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.game.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/bytecode.rpyb" beforeDir="false" afterPath="$PROJECT_DIR$/cache/bytecode.rpyb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/screens.rpyb" beforeDir="false" afterPath="$PROJECT_DIR$/cache/screens.rpyb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.rpy" beforeDir="false" afterPath="$PROJECT_DIR$/gui.rpy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.rpyc" beforeDir="false" afterPath="$PROJECT_DIR$/gui.rpyc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/game_menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/gui/game_menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui/main_menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/gui/main_menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/_reload-2-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/_reload-2-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/auto-1-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/auto-1-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/auto-10-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/auto-10-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/auto-2-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/auto-2-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/auto-3-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/auto-3-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/auto-4-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/auto-4-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/auto-5-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/auto-5-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/auto-6-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/auto-6-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/auto-7-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/auto-7-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/auto-8-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/auto-8-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/auto-9-LT1.save" beforeDir="false" afterPath="$PROJECT_DIR$/saves/auto-9-LT1.save" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/navigation.json" beforeDir="false" afterPath="$PROJECT_DIR$/saves/navigation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/persistent" beforeDir="false" afterPath="$PROJECT_DIR$/saves/persistent" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.rpy" beforeDir="false" afterPath="$PROJECT_DIR$/script.rpy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,14 +63,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586721077941</updated>
-      <workItem from="1586721082161" duration="1676000" />
+      <workItem from="1586721082161" duration="2184000" />
+      <workItem from="1586724060620" duration="154000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
     <state x="270" y="533" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586722862231">
